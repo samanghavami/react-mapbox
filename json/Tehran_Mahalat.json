@@ -1,0 +1,25 @@
+{
+  "RECORDS": [
+    {
+      "name": "آرارات, آفتاب",
+      "slug": "Ararat, Sunshine",
+      "id": 1,
+      "latitude": 35.768046,
+      "longitude": 51.400507
+    },
+    {
+      "name": "آفریقا, آرامش",
+      "slug": "Africa, Aramesh",
+      "id": 2,
+      "latitude": 35.777014,
+      "longitude": 51.421818
+    },
+    {
+      "name": "آفریقا, امین کاج آبادی",
+      "slug": "Africa, Amin Kaaj Abadi",
+      "id": 4,
+      "latitude": 35.778284,
+      "longitude": 51.422173
+    }
+  ]
+}
